@@ -1,5 +1,6 @@
 ## Introduction
 This shows my solutions to three Javascript puzzles.
+
 **Question 1**
 This is an array-cleaning function. Given an array with possible duplicates, the function returns the array with elements in increasing order and equal elements stored in sub-arrays. For example, cleanRoom([1, 1, 1, 2, 5, 5]) returns [[1, 1, 1], 2, [5, 5]].
 
